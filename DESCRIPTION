@@ -1,0 +1,17 @@
+Package: nseR
+Title: Data collection package for NSE India
+Version: 0.0.1
+Authors@R: person("Ramanathan", "Perumal", email = "ramamet4@example.com", role = c("aut", "cre"))
+Description: Indian Stock Market analysis
+Depends:
+    R (>= 3.3.0)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ggplot2,
+    dplyr,
+    magrittr,
+    xml2,
+    rvest
+RoxygenNote: 5.0.1
